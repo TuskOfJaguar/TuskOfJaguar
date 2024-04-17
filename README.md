@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TuskOfJaguar
+- 👀 I’m interested in programming and game development design.
+- 🌱 I’m currently learning C++.
+- ⚡ Fun fact: I also practice bass playing.
